@@ -3,7 +3,7 @@ RecipeApp is a recipe management application, structured according to the MVC (M
 
 Technologies used:
 - JavaScript
-- CSS
+- SCSS
 
 ### Menu - Home:
 ![RecipeApp1](RecipeApp1.png)
