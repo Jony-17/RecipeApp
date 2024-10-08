@@ -5,17 +5,17 @@ Technologies used:
 - JavaScript
 - CSS
 
-### Home menu:
+### Menu - Home:
 ![RecipeApp1](RecipeApp1.png)
 
-### Bookmarks:
+### Menu - Bookmarks:
 ![RecipeApp2](RecipeApp2.png)
 
-### Add recipe
+### Menu - Add recipe:
 ![RecipeApp3](RecipeApp3.png)
 
-### All recipes with the name 'pasta'
+### Menu - All recipes with the name 'pasta':
 ![RecipeApp4](RecipeApp4.png)
 
-### Final menu
+### Menu - Show recipe
 ![RecipeApp5](RecipeApp5.png)
